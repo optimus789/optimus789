@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on [Games To Web3](https://gamestoweb3.com)<br>I am learning Solidity, Nest.js and Next.js<br>I have interest in coding and solving tough problems in development.
+I am currently working on [Games To Web3](https://linktree.com/gamestoweb3)<br>I am learning Solidity, Nest.js and Next.js<br>I have interest in coding and solving tough problems in development.
 
 
 ## 🌐 Socials:
